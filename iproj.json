@@ -4,7 +4,7 @@
   "includePath": [
     "SAMCO_SRC/QPROTOSRC"
   ],
-  "repository": "git@github.com:bmarolleau/ibmi-samco.git",
+  "repository": "git@github.com:NicolaeCh/ibmi-samco.git",
   "objlib": "&verlibsamco",
   "curlib": "&CURLIB",
   "extensions": {
